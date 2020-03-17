@@ -8,3 +8,5 @@ OAuth_Consumer_Key = '55a22ec5d2eacee9c4ab20f1c4c6727d1822365f'
 OAuth_Consumer_Secret = 'f3ad8587dfe4f668f1c0f9c1371d91ee3147c73e'
 OAuth_Access_Token = '0dc95570b2912b8f4151aa62042d9cff79ae5819'
 OAuth_Token_Secret = '76e18d82c3c4e8b7426b4a5e0138bce59ef552b1'
+
+musixmatch_key = 'd549c32c1bd06ade96d97a5da483f7f5'
